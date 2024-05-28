@@ -5,4 +5,4 @@ echo "(c) Copyright 2024 - SwitchCompagnie"
 echo "-------------------------------------------------------------------------------------------------"
 echo "Starting The Isle Server & Checking Updates"
 echo "-------------------------------------------------------------------------------------------------"
-./The-Isle ${MAP} -log -SteamServerName=$SRV_NAME -Port=$SERVER_PORT
+./TheIsle ${MAP} -log -SteamServerName=$SRV_NAME -Port=$SERVER_PORT
